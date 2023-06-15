@@ -3,7 +3,7 @@
     <img width='5%' height='10%' 
 src="https://dapplooker.s3.amazonaws.com/assets/img/Dapplooker_icon.png">
     </a>
-    <a href="https://push.org/#gh-dark-mode-only">
+    <a>
     <img width='20%' height='10%' 
 src="https://dapplooker.s3.amazonaws.com/assets/img/Dapplooker_icon.png">
     </a>
