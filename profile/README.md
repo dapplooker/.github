@@ -1,7 +1,7 @@
 <h1 align="center">
     <a >
-    <img width='40%' height='45%' 
-src="https://d2yxqfr8upg55w.cloudfront.net/assets/svg/dapplooker-logo-with-text.svg">
+    <img width='60%' height='60%' 
+src="https://d2yxqfr8upg55w.cloudfront.net/assets/img/DL_logo_1800 X 400.png">
     </a>
 </h1>
 
@@ -37,10 +37,11 @@ DappLooker aims to empower everyone to easily understand blockchain data, do ana
 
 Follow us to stay updated with the latest news and updates!
 
-- [Website](https://dapplooker.com/)
-- [Discord](https://dapplooker.com/community)
-- [Twitter](https://twitter.com/dapplooker)
-- [Telegram](https://t.me/dapplooker)
-- [Medium](https://dapplooker.medium.com/)
-- [LinkedIn](https://www.linkedin.com/company/dapplooker/)
-- [Youtube](https://www.youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg)
+<a href="https://dapplooker.com/" target="_blank">Website</a>
+<a href="https://dapplooker.com/community" target="_blank">Discord</a>
+<a href="https://twitter.com/dapplooker" target="_blank">Twitter</a>
+<a href="https://t.me/dapplooker" target="_blank">Telegram</a>
+<a href="https://dapplooker.medium.com/" target="_blank">Medium</a>
+<a href="https://www.linkedin.com/company/dapplooker/" target="_blank">Linkedin</a>
+<a href="https://www.youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg" target="_blank">Youtube</a>
+
