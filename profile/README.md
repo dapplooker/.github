@@ -1,7 +1,7 @@
 <h1 align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://d2yxqfr8upg55w.cloudfront.net/assets/img/DL_logo_1800 X 400.png">
-        <source media="(prefers-color-scheme: dark)" srcset="https://d2yxqfr8upg55w.cloudfront.net/assets/img/DL_LOGO_dark_theme.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://d2yxqfr8upg55w.cloudfront.net/assets/svg/dapplooker-dark-logo.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://d2yxqfr8upg55w.cloudfront.net/assets/svg/updated-dapplooker-logo-with-text.svg">
         <img width='60%' height='60%' src="https://d2yxqfr8upg55w.cloudfront.net/assets/img/DL_logo_1800 x 400.png" alt="DL logo">
     </picture>
 </h1>
